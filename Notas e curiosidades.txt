@@ -1,0 +1,4 @@
+a tag <pre> considera a formatação, como espaços e enters.
+a tag code representa um trecho de código. 
+
+Usadas juntas, essas duas tags podem representar de maneira mais real um trecho de código de algum programa. 
